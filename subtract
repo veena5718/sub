@@ -1,0 +1,12 @@
+#include <stidio.h>
+void main()
+{
+    int a,int b, diff;
+    printf("enter a value")
+    scanf("%d",&a);
+    printf("enter b value")
+    scanf("%d",&b)
+    diff = a-b;
+    printf("the diff of %d and %d is %d is %d\n",a,b,dif);
+    getch()
+}
